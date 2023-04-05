@@ -38,7 +38,7 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-0e6e28?style=for-the-badge&logo=pycharm&logoColor=000&labelColor=0e6e28)](https://www.jetbrains.com/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-f2c230?style=for-the-badge&logo=nginx&logoColor=11ba16)](https://www.nginx.com/)
 [![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryproject.org/)
