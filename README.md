@@ -21,7 +21,7 @@
 ### 🚀 Frameworks :
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![DjangoREST](https://img.shields.io/badge/DJANGO REST Framework -ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=ff1709)](https://www.django-rest-framework.org/)
+[![DjangoREST](https://img.shields.io/badge/Django%20Rest%20Framework-ff1709?style=for-the-badge&logo=Django&logoColor=white&color=ff1709&labelColor=ff1709)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/Flask-470000?style=for-the-badge&logo=flask&logoColor=red)](https://flask.palletsprojects.com/)
 
 
