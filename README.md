@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on Go and Django
 - 🌱 I’m currently learning new technologys
 - 👯 I’m looking to collaborate with Best Developers 
 - 🤔 I’m looking for help to collaborate with a growing company 
